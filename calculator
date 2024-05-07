@@ -1,2 +1,3 @@
 Maidah Javed
 23-st-029
+cout << "The sum of two numbers is: " << a + b << endl;
